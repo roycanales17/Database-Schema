@@ -1,3 +1,11 @@
+# Database Schema
+
+Install the bundle using Composer:
+
+```
+composer require roy404/schema
+```
+
 # SQL Builder (Schema) Documentation
 
 ## Introduction
