@@ -88,4 +88,4 @@ Schema::create( 'test', function( Blueprint $table ) {
 
 ## Conclusion
 
-The SQL Builder (Schema) class provides a powerful way to define and manage database schemas in your PHP applications. It simplifies the process of creating and modifying tables, columns, and indexes, allowing you to focus on building your application's logic.# Database-Schema
+The SQL Builder (Schema) class provides a powerful way to define and manage database schemas in your PHP applications. It simplifies the process of creating and modifying tables, columns, and indexes, allowing you to focus on building your application's logic.
